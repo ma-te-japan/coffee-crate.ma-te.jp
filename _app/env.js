@@ -1,1 +1,1 @@
-export const env={PUBLIC_API_URL:"https://1fg51dtf3m.execute-api.us-east-1.amazonaws.com"}
+export const env={PUBLIC_API_URL:"https://d2z5za154n4s6e.cloudfront.net"}
